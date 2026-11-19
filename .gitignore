@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+/myvenv/
+/.venv/
+/.env
+/.django-secret-key
+/admin-login.clixml
+/db.sqlite3*
+/staticfiles/
+/instalace-django.md
